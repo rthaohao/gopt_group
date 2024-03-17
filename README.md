@@ -1,0 +1,2 @@
+# gopt_group
+gopt中的attention替换为group_attention
